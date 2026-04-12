@@ -1,0 +1,1 @@
+Das ist ein einfaches Projekt, um Java direkt mit SQL zu verbinden. Ich nutze hier absichtlich kein Spring und kein ORM, um die Abfragen und die Verbindung mit JDBC von Grund auf zu lernen. Es dient dazu, die puren Grundlagen der Datenbankarbeit in Java zu verstehen.
